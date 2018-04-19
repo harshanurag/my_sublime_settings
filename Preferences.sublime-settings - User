@@ -1,0 +1,17 @@
+{
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"ensure_newline_at_eof_on_save": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"rulers":
+	[
+		72,
+		79
+	],
+	"tab_size": 4,
+	"theme": "Default.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true
+}
